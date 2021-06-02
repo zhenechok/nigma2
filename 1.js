@@ -1,1 +1,1 @@
-var link = "https://topcontroldigital.website/";
+var link = "https://prplwer.club";
